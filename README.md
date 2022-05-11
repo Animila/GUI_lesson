@@ -23,17 +23,21 @@ python -m pip install -r requirements.txt
 
  По всем вопросам писать в по контактам в [профиле](https://github.com/Animila)
 
-| Дата     | Урок | Папка             |
-|----------|------|-------------------|
-| 05.03.22 | Лекция 6 | [lesson6][lec6]   |
-| 12.03.22 | Лекция 7 | [lesson7][lec7]   |
-| 15.03.22 | Лекция 8 | [lesson8][lec8]   |
-| 19.03.22 | Лекция 9 | [lesson9][lec9]   |
-| 31.03.22 | Лекция 10 | [lesson10][lec10] |
-| 02.04.22 | Лекция 11 | [lesson11][lec11] |
-| 23.04.22 | Лекция 12 | [lesson17][lec12] |
+| Дата     | Урок            | Папка             |
+|----------|-----------------|-------------------|
+| 05.03.22 | Лекция 6        | [lesson6][lec6]   |
+| 12.03.22 | Лекция 7        | [lesson7][lec7]   |
+| 15.03.22 | Лекция 8        | [lesson8][lec8]   |
+| 19.03.22 | Лекция 9        | [lesson9][lec9]   |
+| 22.03.22 | Практическая 6  | [lesson12][prac6] |
+| 26.03.22 | Практическая 7  | [lesson13][prac7] |
+| 31.03.22 | Лекция 10       | [lesson10][lec10] |
+| 02.04.22 | Лекция 11       | [lesson11][lec11] |
+| 09.04.22 | Практическая 8  | [lesson14][lec8]  |
+| 12.04.22 | Практическая 9  | [lesson15][lec9]  |
+| 13.04.22 | Практическая 10 | [lesson16][lec10] |
+| 23.04.22 | Лекция 12       | [lesson17][lec12] |
 
-[//]: # (| 28.04.22 | Лекция 13 | [lesson18][lec13] |)
 
 [lec6]: <https://github.com/Animila/GUI_lesson/tree/main/lesson6>
 [lec7]: <https://github.com/Animila/GUI_lesson/tree/main/lesson7>
@@ -43,4 +47,8 @@ python -m pip install -r requirements.txt
 [lec11]: <https://github.com/Animila/GUI_lesson/tree/main/lesson11>
 [lec12]: <https://github.com/Animila/GUI_lesson/tree/main/lesson17>
 
-[//]: # ([lec13]: <>)
+[prac6]: <https://github.com/Animila/GUI_lesson/tree/main/lesson12>
+[prac7]: <https://github.com/Animila/GUI_lesson/tree/main/lesson13>
+[prac8]: <https://github.com/Animila/GUI_lesson/tree/main/lesson14>
+[prac9]: <https://github.com/Animila/GUI_lesson/tree/main/lesson15>
+[prac10]: <https://github.com/Animila/GUI_lesson/tree/main/lesson16>
