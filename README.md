@@ -2,8 +2,8 @@
 Задания по модулям Python предназначенные для отображения графики 
 
 
-![QT|python](https://media.tproger.ru/uploads/2018/03/py-qt-designer-1-880x308.png)
-![Pygame|python](https://exlmoto.ru/wp-content/Images/ZN5R/29_zn5.jpg)
+<img src="https://media.tproger.ru/uploads/2018/03/py-qt-designer-1-880x308.png" alt="drawing" width="500"/>
+<img src="https://exlmoto.ru/wp-content/Images/ZN5R/29_zn5.jpg" alt="drawing" width="500"/>
 
 Все задания сделаны с помощью PyCharm на python3.10.
 > Используемые зависимости можно установить с помощью файла requirements.txt
