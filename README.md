@@ -23,6 +23,8 @@ python -m pip install -r requirements.txt
 
  По всем вопросам писать в по контактам в [профиле](https://github.com/Animila)
 
+> Ссылка на репозиторий ролевой текстовой игры [клик](https://github.com/Animila/lesson_rpg_diablo)
+
 | Дата     | Урок            | Папка             |
 |----------|-----------------|-------------------|
 | 05.03.22 | Лекция 6        | [lesson6][lec6]   |
