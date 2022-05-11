@@ -9,7 +9,7 @@
 > Используемые зависимости можно установить с помощью файла requirements.txt
 > Для установки необходимо ввести консоль:
 ```sh
-cd GUI_Lessons
+cd GUI_lesson
 python -m pip install -r requirements.txt
 ```
 
