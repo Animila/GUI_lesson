@@ -25,20 +25,21 @@ python -m pip install -r requirements.txt
 
 > Ссылка на репозиторий ролевой текстовой игры [клик](https://github.com/Animila/lesson_rpg_diablo)
 
-| Дата     | Урок            | Папка             |
-|----------|-----------------|-------------------|
-| 05.03.22 | Лекция 6        | [lesson6][lec6]   |
-| 12.03.22 | Лекция 7        | [lesson7][lec7]   |
-| 15.03.22 | Лекция 8        | [lesson8][lec8]   |
-| 19.03.22 | Лекция 9        | [lesson9][lec9]   |
-| 22.03.22 | Практическая 6  | [lesson12][prac6] |
-| 26.03.22 | Практическая 7  | [lesson13][prac7] |
-| 31.03.22 | Лекция 10       | [lesson10][lec10] |
-| 02.04.22 | Лекция 11       | [lesson11][lec11] |
-| 09.04.22 | Практическая 8  | [lesson14][lec8]  |
-| 12.04.22 | Практическая 9  | [lesson15][lec9]  |
-| 13.04.22 | Практическая 10 | [lesson16][lec10] |
-| 23.04.22 | Лекция 12       | [lesson17][lec12] |
+| Дата     | Урок            | Папка              |
+|----------|-----------------|--------------------|
+| 05.03.22 | Лекция 6        | [lesson6][lec6]    |
+| 12.03.22 | Лекция 7        | [lesson7][lec7]    |
+| 15.03.22 | Лекция 8        | [lesson8][lec8]    |
+| 19.03.22 | Лекция 9        | [lesson9][lec9]    |
+| 22.03.22 | Практическая 6  | [lesson12][prac6]  |
+| 26.03.22 | Практическая 7  | [lesson13][prac7]  |
+| 31.03.22 | Лекция 10       | [lesson10][lec10]  |
+| 02.04.22 | Лекция 11       | [lesson11][lec11]  |
+| 09.04.22 | Практическая 8  | [lesson14][lec8]   |
+| 12.04.22 | Практическая 9  | [lesson15][lec9]   |
+| 13.04.22 | Практическая 10 | [lesson16][lec10]  |
+| 23.04.22 | Лекция 12       | [lesson17][lec12]  |
+| 16.04.22 | Практическая 11 | [lesson18][prac11] |
 
 
 [lec6]: <https://github.com/Animila/GUI_lesson/tree/main/lesson6>
@@ -54,3 +55,4 @@ python -m pip install -r requirements.txt
 [prac8]: <https://github.com/Animila/GUI_lesson/tree/main/lesson14>
 [prac9]: <https://github.com/Animila/GUI_lesson/tree/main/lesson15>
 [prac10]: <https://github.com/Animila/GUI_lesson/tree/main/lesson16>
+[prac11]: <https://github.com/Animila/GUI_lesson/tree/main/lesson18>

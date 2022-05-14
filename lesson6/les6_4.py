@@ -52,6 +52,8 @@ class Windows_layer(QMainWindow, Ui_MainWindow):
         else:
             self.result_text.setText(text + number)
 
+
+
 def application():
     app = QApplication(sys.argv)
     windows_list = Windows_layer()
